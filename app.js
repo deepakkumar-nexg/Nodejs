@@ -1,4 +1,10 @@
 const readline = require('readline');
+
+
+
+//********************************* */
+//Reading input from terminal and print output
+
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
